@@ -10,7 +10,16 @@ Apart from that, Ts. Hj. Abdul Alim also introduced two common project managemen
 
 # **Basic Skills Required fo Computer Science**
 According to the speaker, there are several foundational skills that are needed to achieve success in computer science, including:<br>
-**1**  Programming proficiency in different programming languages
+**1. Programming proficiency in different programming languages.** <br>
+**2. Problem-solving skills and critical thinking.** <br>
+**3. Deep understanding of data structures and algorithms.** <br>
+**4. Communication skills and teamwork to collaborate with others.** <br>
+
+# **Skills Required by Industry**
+In addition, there are more skills that industry professionals expect, which are:<br>
+**1. Project management skills for development teams coordination** <br>
+**2. High familiarity with Waterfall and Agile methodologies.** <br>
+**3. Experience with modern tools such as agentic coding.** <br>
 
 
 
