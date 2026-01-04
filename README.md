@@ -8,7 +8,7 @@ During the talk, he emphasized that system development is the process of creatin
 
 Apart from that, Ts. Hj. Abdul Alim also introduced two common project management methodologies which are Waterfall and Agile.The Waterfall methodology applies a linear and sequential approach which is suitable for fixed-requirement projects. Although clear milestones can be offered by the Waterfall methodology, it lacks flexibility to cope with changes required.In contrast, an iterative approach is adopted by Agile methodology which contains several short development cycles known as sprints. With high flexibility and faster feedback, Agile methodology is widely used in industries.
 
-
+** Basic Skills Required for Compueter Science**
 
 
 
